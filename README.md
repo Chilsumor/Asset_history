@@ -1,7 +1,7 @@
 # Asset_history
 个人渲染图文件存放中心
 
-这些文件的渲染结果可以参见https://zh.minecraft.wiki/w/User:Chilsumor/Sandbox/4
+这些文件的渲染结果可以参见 https://zh.minecraft.wiki/w/User:Chilsumor/Sandbox/4 以及 https://zh.minecraft.wiki/w/User:Chilsumor/Sandbox/1
 
 对于14w25a之前的锁存红石中继器，应注意各个档位的基岩柱侧面UV。
 
