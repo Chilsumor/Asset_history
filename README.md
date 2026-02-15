@@ -8,4 +8,4 @@
 如果有部分文件的渲染有误，请及时告知我！希望对你有所帮助XD
 
 ## 特别感谢
-Txt_3190 (https://zh.minecraft.wiki/w/User:Txt_3190)
+Txt_3190 ( https://zh.minecraft.wiki/w/User:Txt )，他的仓库在 https://github.com/TxtficixAplus/minecraft-wiki-render-templates
