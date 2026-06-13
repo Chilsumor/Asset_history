@@ -1,5 +1,5 @@
 # 资源历史
-个人渲染图文件存放中心 [Chilsumor](https://zh.minecraft.wiki/w/User:Chilsumor)
+[Chilsumor](https://zh.minecraft.wiki/w/User:Chilsumor)的个人渲染图文件存放中心
 
 这些文件的渲染结果可以参见
 - [红石中继器](https://zh.minecraft.wiki/w/User:Chilsumor/Sandbox/4)
@@ -11,7 +11,7 @@
 如果有部分文件的渲染有误，请及时告知我！希望对你有所帮助XD
 
 # Asset_History
-Personal Render File Storage Center [Chilsumor](https://zh.minecraft.wiki/w/User:Chilsumor)
+[Chilsumor](https://zh.minecraft.wiki/w/User:Chilsumor)'s Personal Render File Storage Center
 
 The rendering results of these files can be found at
 - [repeater](https://zh.minecraft.wiki/w/User:Chilsumor/Sandbox/4)
