@@ -1,5 +1,5 @@
 # 资源历史
-个人渲染图文件存放中心
+个人渲染图文件存放中心 [Chilsumor](https://zh.minecraft.wiki/w/User:Chilsumor)
 
 这些文件的渲染结果可以参见
 - [红石中继器](https://zh.minecraft.wiki/w/User:Chilsumor/Sandbox/4)
@@ -11,7 +11,7 @@
 如果有部分文件的渲染有误，请及时告知我！希望对你有所帮助XD
 
 # Asset_History
-Personal Render File Storage Center
+Personal Render File Storage Center [Chilsumor](https://zh.minecraft.wiki/w/User:Chilsumor)
 
 The rendering results of these files can be found at
 - [repeater](https://zh.minecraft.wiki/w/User:Chilsumor/Sandbox/4)
@@ -23,4 +23,4 @@ For locked redstone repeaters from before 14w10a, pay attention to check the sid
 If there are any wrong renders in some files, please let me know! Hope this helps you, XD
 
 ## 特别感谢 Special Thanks
-[Txt_3190](https://zh.minecraft.wiki/w/User:Txt)（[仓库](https://github.com/TxtficixAplus/minecraft-wiki-render-templates)）
+[Txt_3190](https://zh.minecraft.wiki/w/User:Txt)（[GitHub](https://github.com/TxtficixAplus/minecraft-wiki-render-templates)）
